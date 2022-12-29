@@ -33,7 +33,7 @@ int main()
     std::string eachline;
 
     //input file is "input" with "in" as ios for input
-    input.open("day1input", std::ios::in);
+    input.open("day1", std::ios::in);
 
     //vector to hold each caloric value of the 
     std::vector<int> allCalories;
